@@ -1,3 +1,4 @@
+#Docker脚本
 FROM java:8
 MAINTAINER tanghs<782599753@qq.com>
 ENV MYPATH /user/local
